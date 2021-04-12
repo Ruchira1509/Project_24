@@ -23,7 +23,7 @@ class Rubber{
         ellipseMode(RADIUS);
         stroke('yellow');
         strokeWeight(3);
-        fill("lightgreen");
+        fill("turquoise");
         ellipse(0,0,this.r, this.r);
         pop();
     }

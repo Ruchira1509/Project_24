@@ -21,9 +21,9 @@ display(){
     translate(pos.x, pos.y);
     rotate(angle);
     rectMode(CENTER);
-    stroke('red');
-    strokeWeight(3);
-    fill(154);
+    stroke('orange');
+    strokeWeight(5);
+    fill("blue");
     rect(0,0,this.width, this.height);
     pop();
 }
